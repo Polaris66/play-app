@@ -2,6 +2,7 @@ import Head from "next/head";
 import React from "react";
 
 import { Button } from "@polaris66/play-ui/src/atoms";
+import { Alert } from "@polaris66/play-ui/src/molecules";
 
 export default function Home() {
 	return (
