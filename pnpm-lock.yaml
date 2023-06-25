@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@gurisandhu/play-ui':
-    specifier: 0.0.21
-    version: 0.0.21(@babel/core@7.22.5)(@typescript-eslint/parser@5.60.0)(react-dom@18.2.0)(react@18.2.0)
+    specifier: 0.0.22
+    version: 0.0.22(@babel/core@7.22.5)(@typescript-eslint/parser@5.60.0)(react-dom@18.2.0)(react@18.2.0)
   '@types/node':
     specifier: 20.3.1
     version: 20.3.1
@@ -1467,8 +1467,8 @@ packages:
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     dev: false
 
-  /@gurisandhu/play-ui@0.0.21(@babel/core@7.22.5)(@typescript-eslint/parser@5.60.0)(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-b09SClt8ExOy19I17KRLEt2yoR1f4BuIT0ky13IbqQ8yNy6QSsx6FuIOhRgvToZnJhb10YbKeHiPfnJ7nHfI8w==, tarball: https://npm.pkg.github.com/download/@gurisandhu/play-ui/0.0.21/664c591e221a3ac47d03532d257c8dbf52fcb08d}
+  /@gurisandhu/play-ui@0.0.22(@babel/core@7.22.5)(@typescript-eslint/parser@5.60.0)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-j4xQaibzQ/x7aSwRKc0/w49dVR4//Mpx6TKsqZuC51QRgYWuS7Fob8yRdYAaMAN/ErCwkbP3+wY29YnJb12H+w==, tarball: https://npm.pkg.github.com/download/@gurisandhu/play-ui/0.0.22/3b40b96a8545912b631463b04ebd17b8386d02d4}
     peerDependencies:
       react: 18.2.0
       react-dom: 18.2.0
