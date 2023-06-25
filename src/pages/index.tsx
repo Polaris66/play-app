@@ -1,8 +1,7 @@
 import Head from "next/head";
 import React from "react";
 
-import { Button } from "@gurisandhu/play-ui/atoms";
-import { Alert } from "@gurisandhu/play-ui/molecules";
+import { Button } from "@polaris66/play-ui/src/atoms";
 
 export default function Home() {
 	return (
